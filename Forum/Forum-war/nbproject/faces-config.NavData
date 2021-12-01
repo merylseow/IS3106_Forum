@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scene Scope="Project" version="2">
+    <Scope Scope="Faces Configuration Only"/>
+    <Scope Scope="Project">
+        <Node id="editThread.xhtml" x="722" y="55" zoom="false"/>
+        <Node id="postsInAThread.xhtml" x="637" y="174" zoom="false"/>
+        <Node id="index.xhtml" x="56" y="439" zoom="false"/>
+        <Node id="threadsInAForum.xhtml" x="363" y="111" zoom="false"/>
+        <Node id="footer.xhtml" x="1189" y="358" zoom="true"/>
+        <Node id="post.xhtml" x="877" y="229" zoom="false"/>
+        <Node id="addForum.xhtml" x="18" y="59" zoom="false"/>
+        <Node id="addThread.xhtml" x="343" y="301" zoom="false"/>
+        <Node id="viewAllUsers.xhtml" x="622" y="499" zoom="true"/>
+        <Node id="editForum.xhtml" x="187" y="13" zoom="false"/>
+        <Node id="layout/default.xhtml" x="1143" y="502" zoom="true"/>
+        <Node id="accessRightError.xhtml" x="1139" y="309" zoom="true"/>
+        <Node id="editPost.xhtml" x="647" y="443" zoom="true"/>
+        <Node id="addPost.xhtml" x="643" y="364" zoom="true"/>
+        <Node id="editUserProfile.xhtml" x="308" y="519" zoom="false"/>
+        <Node id="threadUserProfile.xhtml" x="472" y="10" zoom="true"/>
+        <Node id="home.xhtml" x="132" y="313" zoom="false"/>
+        <Node id="viewUserProfile.xhtml" x="315" y="375" zoom="false"/>
+        <Node id="postUserProfile.xhtml" x="852" y="311" zoom="true"/>
+        <Node id="register.xhtml" x="44" y="554" zoom="false"/>
+        <Node id="header.xhtml" x="1189" y="402" zoom="true"/>
+        <Node id="layout/login.xhtml" x="1150" y="450" zoom="true"/>
+    </Scope>
+    <Scope Scope="All Faces Configurations"/>
+</Scene>
